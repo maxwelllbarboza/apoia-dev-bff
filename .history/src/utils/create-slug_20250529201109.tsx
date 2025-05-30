@@ -1,0 +1,1 @@
+export function createSlug(username: string)
